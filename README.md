@@ -1,1 +1,2 @@
-"# Inteligencja-Obliczeniowa" 
+# Inteligencja Obliczeniowa
+## Jakub Sikorski
